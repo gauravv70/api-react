@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+
+.loader{
+    position: absolute;
+    justify-content: center;
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.397);
+}
+
+.progress{
+    position: absolute;
+    top: 50%;
+    height: 50px;
+    margin-top: -25px;
+}
