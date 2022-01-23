@@ -6,3 +6,6 @@ lib used: @mui/material-ui
           react-toastify
 
 developed by Gaurav Budhiraja
+
+Project github link : https://github.com/gauravv70/api-react
+ Live Project: https://user-api-ochre.vercel.app/
