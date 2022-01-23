@@ -1,0 +1,23 @@
+.wrapper-right{
+    height: 100%;
+    width: 50%;
+}
+
+.data-right{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.thumbnail{
+    border-radius: 50px;
+}
+
+.thumbnail:hover{
+    transform: scale(1.07);
+    transition: 1s ease-out;
+}
+
+

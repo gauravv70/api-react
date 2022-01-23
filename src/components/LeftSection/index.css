@@ -1,0 +1,17 @@
+.wrapper-left{
+    height: 100%;
+    width: 50%;
+}
+
+.data-left{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.info{
+    font-size: 1.6rem;
+}
+

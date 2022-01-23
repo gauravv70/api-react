@@ -1,17 +1,17 @@
 import { Component } from 'react';
 import './App.css';
 import Header from './components/Header';
-import UserInfo from './components/UserInfo';
+import UserInfo from './components/Profile';
 
 
 class App extends Component {
-  render(){
+  render() {
     return (
       <div className='App'>
-        <Header/>
-        <UserInfo/>
-</div>
-  );
+        <Header />
+        <UserInfo />
+      </div>
+    );
   }
 }
 
